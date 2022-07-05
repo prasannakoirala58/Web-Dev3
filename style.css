@@ -1,0 +1,12 @@
+.forms {
+  margin-top: 7rem;
+}
+
+table,
+td {
+  width: 100%;
+  border: 1px solid black;
+  border-collapse: collapse;
+  border-spacing: 0;
+  margin-bottom: 2rem;
+}
